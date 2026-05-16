@@ -30,7 +30,17 @@ This app allows users to track their daily transactions, visualize their financi
 
 ## 📸 Visual Showcase
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/119c6325-72c4-4ff0-85bb-29bc3325f6b4" width="24%">
+  <img src="https://github.com/user-attachments/assets/90770ea2-3f58-461b-9ef3-3db18f64c53a" width="24%">
+  <img src="https://github.com/user-attachments/assets/57b9ce17-b453-450e-9edf-ec430eab5269" width="24%">
+</p>
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c8790f2b-fe6c-4df5-b128-81b41441ed01" width="24%">
+  <img src="https://github.com/user-attachments/assets/61cd86e3-9595-4c46-aafd-c54e48601c03" width="24%">
+  <img src="https://github.com/user-attachments/assets/96615cb1-b6ca-4be5-9bcf-a06dfec13a03" width="24%">
+</p>
 
 ---
 
